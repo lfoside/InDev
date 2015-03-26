@@ -1,0 +1,18 @@
+
+.videoContainer 
+{
+    position:absolute;
+    height:100%;
+    width:100%;
+    overflow: hidden;
+    z-index: -999;
+}
+
+.videoContainer video 
+{
+    min-width: 100%;
+    min-height: 100%;
+}
+.phone{
+	color: #14B2F9;
+}
